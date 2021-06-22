@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from env import host, username, password
+from env import host, user, password
 ###############################################################################################
 
 ############################## Connect to SQL Database ########################################
@@ -25,7 +25,7 @@ def get_db_url(db_name):
     '''
     
     # Creates the url and the function returns this url
-    url = f'mysql+pymysql://{username}:{password}@{host}/{db_name}'
+    url = f'mysql+pymysql://{user}:{password}@{host}/{db_name}'
     return (url)
 ###############################################################################################
 
