@@ -80,5 +80,3 @@ Clusters and features explored did not have a significant difference with respec
 - [ ] Download Acquire.py, Prepare.py, Model.py, and Final_Model.ipynb in your working directory.
 - [ ] Run the Final_Modeling.ipynb Jupyter Notebook.
 - [ ] Do your own exploring, modeling, etc.
-# Author
-![Home-Sale-Sign](https://i.pinimg.com/564x/68/de/23/68de2379e0fec17a991ab4c1ab588c46.jpg)
