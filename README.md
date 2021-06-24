@@ -16,7 +16,7 @@ The organization of this project is visualized below. Only Final_Model.ipynb and
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/christophermayorga/zillow-clustering-project/master/images/Screen%20Shot%202021-06-24%20at%2011.21.16%20AM.png" width="800" height="500" >
+  <img src="https://raw.githubusercontent.com/christophermayorga/zillow-clustering-project/master/images/Screen%20Shot%202021-06-24%20at%2011.21.16%20AM.png" width="800" height="300" >
 </p> 
 
 
