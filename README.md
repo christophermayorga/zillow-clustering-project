@@ -12,7 +12,7 @@ According to the Zillow Kaggle competition,
 ````
  
 ### Outline
-The organization of this project is visualized below. Only Final_Model.ipynb and the .py files are necessary to reproduce. However, the module notebooks go more in-depth than the final notebook. Both the module notebooks and pdfs are additional resources about the project.
+The organization of this project is visualized below. Only Final_Model.ipynb and the .py files are necessary to reproduce. However, the images folder contains screenshots of charts made during exploration. 
 
 
 <p align="center">
